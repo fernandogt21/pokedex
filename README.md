@@ -55,3 +55,11 @@ Heroku redeploy sin cambios:
 git commit --allow-empty -m "Tigger Heroku deploy"
 git push heroku <master|main>
 ```
+
+git básico:
+```
+git add .
+git commit -m "actualizacionX"
+git push -u origin main
+
+```
